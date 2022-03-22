@@ -9,7 +9,7 @@
 
  <br>
 
-> Day 2: I used clauses like Having, Group by , aggregate fuctions etc
+> Day 2: I used clauses like Having, Group by , aggregate fuctions transaction etc
 
 ## Getting Started
 
