@@ -1,4 +1,4 @@
-# curriculum-databases-projects-template
+# Vet Clinic Database
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
