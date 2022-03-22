@@ -1,8 +1,15 @@
-# curriculum-databases-projects-template
+# Vet Clinic Database
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 > This is a repo to test my knowlegde of SQL on day one of Database curriculum in Microverse School
+
+<br>
+> Day 1 : worked on basics of sql using clauses like the comparison (<,>,=,<>,is not,not), like, where etc
+
+ <br>
+
+> Day 2: I used clauses like Having, Group by , aggregate fuctions transaction,rollback etc
 
 ## Getting Started
 
