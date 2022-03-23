@@ -11,6 +11,10 @@
 
 > Day 2: I used clauses like Having, Group by , aggregate fuctions transaction,rollback etc
 
+<br>
+
+> Day 3: I made use of Join , right join, Order by,
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
