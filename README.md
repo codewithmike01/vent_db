@@ -15,6 +15,10 @@
 
 > Day 3: I made use of Join , right join, Order by,
 
+<br>
+
+> Day 4: Made use of fetch row, order by, multiple join table
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
