@@ -19,6 +19,9 @@
 
 > Day 4: Made use of fetch row, order by, multiple join table
 
+<br>
+> Week 2, Day 1: Made use of indexing and tuning to optimize query excution time.
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
