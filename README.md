@@ -22,6 +22,8 @@
 <br>
 > Week 2, Day 1: Made use of indexing and tuning to optimize query excution time.
 
+> ![schema ScreenShoot](https://user-images.githubusercontent.com/58771507/160577727-72a2601a-f572-42af-b427-c8ea5d89e6b1.png)
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
